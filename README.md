@@ -35,7 +35,7 @@
 ## Additional Resources:
 
 - [LinkedIn Post](https://www.linkedin.com/posts/omar-sherif-rizk_embeddedsystems-avr-project-activity-7041577596328796160-Z3su?utm_source=share&utm_medium=member_desktop) demonstrates the hardware setup and functionality of the Stopwatch System through a video.
--  
+  
 ## Contributing:
 
 - Contributors are encouraged to suggest improvements, report issues, and submit pull requests to enhance the project's functionality and usability.
