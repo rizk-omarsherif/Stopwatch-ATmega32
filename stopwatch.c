@@ -4,7 +4,7 @@
  *                                                                                                          *
  * Description: Stopwatch System using an ATmega32 and multiplexed 7-segment displays.                      *
  *              It offers functionalities such as starting, stopping, resuming, and resetting,              *
- *              controlled through external push buttons.													*
+ *              controlled through external push buttons.						    *
  *              The system utilizes Timer1 in ATmega32 with CTC mode for accurate timekeeping,              *
  *              and employs a multiplexing technique to efficiently manage multiple 7-segment displays.     *
  * Author: Omar Rizk                                                                                        *
